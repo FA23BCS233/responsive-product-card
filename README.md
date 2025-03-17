@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [View Source Code](https://github.com/FA23BCS233/responsive-product-card)
-- Live Site URL: [Visit the Site](https://your-live-site-url.com)
+- Live Site URL: [Visit the Site](https://fa23bcs233.github.io/responsive-product-card/)
 
 ## My process
 
