@@ -126,11 +126,11 @@ main{
     font-size: 14px;
     font-family: montserrat;
     font-weight: 700;
+    cursor: pointer;
 }
 
 .add-to-cart:hover{
     background-color: var(--green-700);
-    cursor: pointer;
 }
 
 .add-to-cart img{
