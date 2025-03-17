@@ -218,5 +218,5 @@ Currently I am following the learning paths on the frontend mentors and solving 
 ## Author
 
 - Name - [Muhammad Arham](#)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@FA23BCS233](https://www.frontendmentor.io/profile/FA23BCS233)
 
